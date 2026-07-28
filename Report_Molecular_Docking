@@ -2,14 +2,10 @@
 
 AKT1 was selected for molecular docking because it showed the highest centrality in the core PPI network, indicating an important position in the predicted compound–target network. 
 
-| PDB ID   | Resolution | Mutation status | Co-crystallized ligand      | Binding site               | Assessment                                                                                  |
-
-| -------- | ---------: | --------------- | --------------------------- | -------------------------- | ------------------------------------------------------------------------------------------- |
-
+| PDB ID   | Resolution | Mutation status | Co-crystallized ligand      | Binding site               | Assessment|
+ -------- | ---------: | ---------: | ---------: | ---------: | ---------:|
 | **4GV1** | **1.49 Å** | No mutation     | Capivasertib (AZD5363; 0XZ) | ATP-binding site           | **Selected:** highest structural resolution                                                 |
-
 | 4EKL     |     2.00 Å | One mutation    | Ipatasertib (GDC-0068; 0RF) | ATP-binding site           | Not selected because it contains a mutation and has lower resolution than 4GV1              |
-
 | 3O96     |     2.70 Å | No mutation     | Allosteric inhibitor (IQO)  | PH–kinase domain interface | Not selected because it represents an allosteric pocket and has lower structural resolution |
 
   
@@ -22,47 +18,26 @@ Capivasertib (AZD5363) was used as the co-crystallized reference inhibitor, rath
 Table 1. Predicted binding affinities of capivasertib and the selected herbal compounds toward AKT1 (PDB ID: 4GV1)
 
 | Model | Capivasertib |   EGCG | Tanshinone I | (E)-Guggulsterone |
-
 | ----: | -----------: | -----: | -----------: | ----------------: |
-
 |     1 |       -8.459 | -8.241 |   **-8.511** |            -5.518 |
-
 |     2 |       -8.367 | -7.809 |       -8.409 |            -4.554 |
-
 |     3 |       -8.326 | -7.747 |       -7.816 |            -4.233 |
-
 |     4 |       -8.216 | -7.706 |       -7.543 |                 — |
-
 |     5 |       -8.131 | -7.475 |       -7.334 |                 — |
-
 |     6 |       -7.978 | -7.357 |       -7.206 |                 — |
-
 |     7 |       -7.809 | -7.265 |       -7.061 |                 — |
-
 |     8 |       -7.787 | -7.125 |       -6.927 |                 — |
-
 |     9 |       -7.772 | -7.103 |       -6.900 |                 — |
-
 |    10 |       -7.751 | -6.964 |       -6.793 |                 — |
-
 |    11 |       -7.516 | -6.892 |       -6.728 |                 — |
-
 |    12 |       -7.509 | -6.830 |       -6.636 |                 — |
-
 |    13 |       -7.498 | -6.756 |       -6.546 |                 — |
-
 |    14 |       -7.490 | -6.753 |       -6.410 |                 — |
-
 |    15 |       -7.425 | -6.717 |       -6.218 |                 — |
-
 |    16 |       -7.328 | -6.701 |       -6.102 |                 — |
-
 |    17 |       -7.148 | -6.698 |       -6.093 |                 — |
-
 |    18 |       -7.095 | -6.630 |       -6.059 |                 — |
-
 |    19 |       -7.033 | -6.611 |       -5.972 |                 — |
-
 |    20 |       -6.938 | -6.428 |       -5.910 |                 — |	
 
 ![Docking all compound](images/docking_all.png)
