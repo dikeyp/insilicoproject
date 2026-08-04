@@ -9,7 +9,7 @@ AKT1 was selected for molecular docking because it showed the highest centrality
 | 3O96     |     2.70 Å | No mutation     | Allosteric inhibitor (IQO)  | PH–kinase domain interface | Not selected because it represents an allosteric pocket and has lower structural resolution |
 
   
-![AKT1 Binding pocket](images/AKT1_pocket.png)
+![AKT1 Binding pocket](/AKT1_pocket.png)
 *Figure 1. Prediction of the highest-ranked binding pocket of AKT1 (PDB ID: 4GV1) using PrankWeb. The selected pocket was centered at coordinates x = −19.9544, y = 1.4124, and z = 12.3768.*
 
 
@@ -40,7 +40,7 @@ Table 1. Predicted binding affinities of capivasertib and the selected herbal co
 |    19 |       -7.033 | -6.611 |       -5.972 |                 — |
 |    20 |       -6.938 | -6.428 |       -5.910 |                 — |	
 
-![Docking all compound](images/docking_all.png)
+![Docking all compound](/docking_all.png)
 *Figure 2. Figure 2. Docked poses of capivasertib, EGCG, tanshinone I, and (E)-guggulsterone within the ATP-binding pocket of AKT1 (PDB ID: 4GV1).*
 
 Among the tested compounds, tanshinone I produced the most favorable best docking score at −8.511, which was close to the score of capivasertib at −8.459. EGCG also showed a favorable score of −8.241, suggesting a potentially compatible interaction with the AKT1 binding pocket. In contrast, (E)-guggulsterone had a considerably weaker best score of −5.518 and generated only three poses, indicating a less favorable fit within the selected pocket.
