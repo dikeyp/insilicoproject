@@ -12,7 +12,7 @@ The objective of this analysis was to identify possible protein targets and biol
  
 ## 4. Results and Interpretation
 ### 4.1 Core protein-protein interaction network
- ![Figure 2. Core protein-protein interaction network generated from the candidate breast-cancer targets. Node color appears to represent relative topological importance, while edges show protein-protein associations. ](/Map_core_networ.png "Map of the core network")
+ ![Figure 2. Core protein-protein interaction network generated from the candidate breast-cancer targets. Node color appears to represent relative topological importance, while edges show protein-protein associations. ](/Map_core_network.png "Map of the core network")
 
 Based on the visual color scale, STAT3, CTNNB1, EGFR, SRC, and AKT1 appear among the most central nodes. These proteins connect major cancer processes. EGFR, SRC, PIK3CA, AKT1, and PTEN form a growth and survival signaling group. MAPK3 and MAPK14 connect mitogen and stress-response pathways. ESR1, PPARG, and EP300 connect hormone-receptor and transcriptional regulation. TNF, IL18, STAT1, STAT3, and PTGS2 represent inflammatory or immune signaling. HIF1A and MMP9 relate to hypoxia, angiogenesis, tissue invasion, and metastasis, while BCL2 is involved in resistance to apoptosis.
 ### 4.2 Identification of Hub Genes in the Core Network
